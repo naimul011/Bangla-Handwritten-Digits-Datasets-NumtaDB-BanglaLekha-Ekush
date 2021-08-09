@@ -26,7 +26,7 @@ The images are originally of size **[32 x 32]** but this repo the images are all
 ## How to use
 
 ```bash
-!git clone https://https://github.com/naimul011/Bengali-Numeral-Datasets-NumtaDB-BanglaLekha-Ekush.git
+!git clone https://github.com/naimul011/Bengali-Numeral-Datasets-NumtaDB-BanglaLekha-Ekush.git
 ```
 
 ```python
