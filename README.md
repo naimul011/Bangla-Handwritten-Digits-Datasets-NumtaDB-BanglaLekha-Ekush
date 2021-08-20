@@ -1,4 +1,4 @@
-# Bangla-Handwritten-Digits-Datasets-NumtaDB-BanglaLekha-Ekush(Compressed and Ready to use) For Machine Learning
+# Bangla Handwritten Digits Datasets NumtaDB BanglaLekha Ekush (Compressed and Ready to use) For Machine Learning
 ## Introduction
 
 This Repository contains three Bangali Numeral Datasets and are preprocessed for Machine Learning Usage:
