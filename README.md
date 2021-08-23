@@ -13,7 +13,7 @@ This Repository contains three Bangali Numeral Datasets and are preprocessed for
 > - 0 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9
 
 ## Dataset Description
-The images are originally of size **[32 x 32]** but this repo the images are all resized into **[28 x 28]** dimension such that these datasets can easily used in the models where [MNIST](https://www.kaggle.com/c/digit-recognizer) Dataset are used. The datasets are resized and loaded in numpy array and then compressed. The sample images are shown below:
+The images are originally of size **[32 x 32]** but we resized all the images into **[28 x 28]** dimension such that these datasets can easily used in the models where [MNIST](https://www.kaggle.com/c/digit-recognizer) Dataset are used. The datasets are resized and loaded in numpy array and then compressed. The sample images are shown below:
 - [Bengali.AI NumtaDB](https://bengali.ai/wp-content/uploads/datasets/assembled-bangla-handwritten.pdf)
 - [BanglaLekha](https://www.sciencedirect.com/science/article/pii/S2352340917301117)
 - [Ekush](https://shahariarrabby.github.io/ekush/#home) <br>
