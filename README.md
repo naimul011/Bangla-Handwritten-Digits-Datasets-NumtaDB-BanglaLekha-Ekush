@@ -32,7 +32,7 @@ The images are originally of size **[32 x 32]** but we resized all the images in
 ```python
 from zipfile import ZipFile
 
-with ZipFile('banglalekhaX_train.zip', 'r') as zipObj:
+with ZipFile('./Bengali-Numeral-Datasets-NumtaDB-BanglaLekha-Ekush/datasets/banglalekhaX_train.zip', 'r') as zipObj:
    
    zipObj.extractall()
 ```
